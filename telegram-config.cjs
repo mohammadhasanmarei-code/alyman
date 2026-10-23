@@ -1,0 +1,4 @@
+module.exports = {
+  BOT_TOKEN: "8928355413:AAGcRJNU1lLbM56S5FANepOvJzEV-xCwGiE",
+  CHAT_ID: "8981619703",
+};
